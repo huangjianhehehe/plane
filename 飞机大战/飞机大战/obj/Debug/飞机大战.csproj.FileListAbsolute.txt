@@ -1,0 +1,8 @@
+E:\zip\csharp\飞机大战\飞机大战\bin\Debug\飞机大战.exe
+E:\zip\csharp\飞机大战\飞机大战\bin\Debug\飞机大战.pdb
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.Form1.resources
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.Properties.Resources.resources
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.csproj.GenerateResource.Cache
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.exe
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.pdb
+E:\zip\csharp\飞机大战\飞机大战\obj\Debug\飞机大战.csprojResolveAssemblyReference.cache
